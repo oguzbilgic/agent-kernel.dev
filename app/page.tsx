@@ -31,7 +31,7 @@ export default function Home() {
       <section className="mb-20">
         <h1 className="text-5xl font-bold mb-4 tracking-tight">agent-kernel</h1>
         <p className="text-xl text-[var(--muted)] mb-6">
-          The easiest way to create an AI agent. Clone, start, talk.
+          Three markdown files that make any AI agent stateful.
         </p>
         <p className="text-[var(--fg)] mb-8 leading-relaxed">
           Your agent remembers between sessions, takes notes, and builds on past
